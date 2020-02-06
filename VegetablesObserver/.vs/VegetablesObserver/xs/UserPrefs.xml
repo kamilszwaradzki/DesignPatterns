@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9B3F0412-B225-4541-AC8E-EF2BDFB7E695}|Default">
+  <MonoDevelop.Ide.ItemProperties.VegetablesObserver PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VegetablesObserver/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="VegetablesObserver/Program.cs" Line="102" Column="45" />
+      <File FileName="VegetablesObserver/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VegetablesObserver" expanded="True">
+            <Node name="VegetablesObserver" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

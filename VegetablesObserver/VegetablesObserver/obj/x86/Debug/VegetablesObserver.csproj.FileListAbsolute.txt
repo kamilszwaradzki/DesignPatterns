@@ -1,0 +1,6 @@
+/home/tom/Pulpit/Design_Patterns/VegetablesObserver/VegetablesObserver/bin/Debug/VegetablesObserver.exe
+/home/tom/Pulpit/Design_Patterns/VegetablesObserver/VegetablesObserver/bin/Debug/VegetablesObserver.pdb
+/home/tom/Pulpit/Design_Patterns/VegetablesObserver/VegetablesObserver/obj/x86/Debug/VegetablesObserver.csprojAssemblyReference.cache
+/home/tom/Pulpit/Design_Patterns/VegetablesObserver/VegetablesObserver/obj/x86/Debug/VegetablesObserver.csproj.CoreCompileInputs.cache
+/home/tom/Pulpit/Design_Patterns/VegetablesObserver/VegetablesObserver/obj/x86/Debug/VegetablesObserver.exe
+/home/tom/Pulpit/Design_Patterns/VegetablesObserver/VegetablesObserver/obj/x86/Debug/VegetablesObserver.pdb
