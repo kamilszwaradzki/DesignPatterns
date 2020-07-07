@@ -55,24 +55,24 @@ namespace VegetablesObserver
     }
     interface IGroceryStore
     {
-        void Update(Vegetables warzywa);
+        void Update(Vegetables vegetables);
     }
     class GroceryStore : IGroceryStore
     {
         private string _name;
-//        private Warzywa _warzywa;
-        private double _zakup;
+//        private Vegetables _vegetables;
+        private double _purchase;
 
-        public GroceryStore(string name, double zakup)
+        public GroceryStore(string name, double purchase)
         {
             _name = name;
-            _zakup = zakup;
+            _purchase = purchase;
         }
 
         public void Update(Vegetables vegetables)
         {
             Console.WriteLine("Notify,that {1} {0} " + " change price to {2:C} per kilogram.", _name, vegetables.GetType().Name, vegetables.pricePerKilograms);
-            if (vegetables.pricePerKilograms < _zakup)
+            if (vegetables.pricePerKilograms < _purchase)
             {
                 Console.WriteLine(_name + " wants to buy some " + vegetables.GetType().Name + "!");
             }
